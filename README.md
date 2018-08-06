@@ -11,7 +11,7 @@ I used code blocks on windows 10
 To clone it on your local machine,
 
 Clone this repository to your local machine.
-git clone https://github.com/samip584/
+git clone https://github.com/samip584/Pokemon-Battle-Simulator.git
 Go inside the directory where you placed the cloned repo inside Pokemon
 Compile "main.c"
 Further Improvements

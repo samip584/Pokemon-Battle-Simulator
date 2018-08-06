@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490171667 source:c:\users\dell\desktop\new folder\pokemon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1490203074 source:d:\kec\year i_part i\computer\project\hamro\pokemon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
